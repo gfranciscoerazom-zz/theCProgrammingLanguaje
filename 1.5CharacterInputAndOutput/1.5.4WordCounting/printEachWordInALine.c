@@ -6,7 +6,6 @@
 int main ()
 {
 	int c, state;
-
 	state = OUT;
 	
 	while ((c = getchar()) != EOF) {
